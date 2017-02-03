@@ -1,0 +1,15 @@
+D:\Xamarin Projects\Greetings\Greetings\Greetings\bin\Debug\Greetings.dll
+D:\Xamarin Projects\Greetings\Greetings\Greetings\bin\Debug\Greetings.pdb
+D:\Xamarin Projects\Greetings\Greetings\Greetings\bin\Debug\Xamarin.Forms.Core.dll
+D:\Xamarin Projects\Greetings\Greetings\Greetings\bin\Debug\Xamarin.Forms.Platform.dll
+D:\Xamarin Projects\Greetings\Greetings\Greetings\bin\Debug\Xamarin.Forms.Xaml.dll
+D:\Xamarin Projects\Greetings\Greetings\Greetings\bin\Debug\Xamarin.Forms.Core.pdb
+D:\Xamarin Projects\Greetings\Greetings\Greetings\bin\Debug\Xamarin.Forms.Core.xml
+D:\Xamarin Projects\Greetings\Greetings\Greetings\bin\Debug\Xamarin.Forms.Platform.pdb
+D:\Xamarin Projects\Greetings\Greetings\Greetings\bin\Debug\Xamarin.Forms.Xaml.pdb
+D:\Xamarin Projects\Greetings\Greetings\Greetings\bin\Debug\Xamarin.Forms.Xaml.xml
+D:\Xamarin Projects\Greetings\Greetings\Greetings\obj\Debug\Greetings.dll
+D:\Xamarin Projects\Greetings\Greetings\Greetings\obj\Debug\Greetings.pdb
+D:\Xamarin Projects\Greetings\Greetings\Greetings\obj\Debug\Greetings.csprojResolveAssemblyReference.cache
+D:\Xamarin Projects\Greetings\Greetings\Greetings\obj\Debug\Greetings.dll.mdb
+D:\Xamarin Projects\Greetings\Greetings\Greetings\bin\Debug\Greetings.dll.mdb
