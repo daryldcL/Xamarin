@@ -77,4 +77,3 @@ D:\Xamarin Projects\Greetings\Greetings\Greetings.Droid\obj\Debug\android\assets
 D:\Xamarin Projects\Greetings\Greetings\Greetings.Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
 D:\Xamarin Projects\Greetings\Greetings\Greetings.Droid\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
 D:\Xamarin Projects\Greetings\Greetings\Greetings.Droid\obj\Debug\Greetings.Droid.dll.mdb
-D:\Xamarin Projects\Greetings\Greetings\Greetings.Droid\bin\Debug\Greetings.Droid.dll.mdb

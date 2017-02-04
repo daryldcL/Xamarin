@@ -13,5 +13,3 @@ D:\Xamarin Projects\HelloXamarin\HelloXamarin\HelloXamarin\obj\Debug\HelloXamari
 D:\Xamarin Projects\HelloXamarin\HelloXamarin\HelloXamarin\obj\Debug\HelloXamarin.pdb
 D:\Xamarin Projects\HelloXamarin\HelloXamarin\HelloXamarin\obj\Debug\HelloXamarin.dll.mdb
 D:\Xamarin Projects\HelloXamarin\HelloXamarin\HelloXamarin\bin\Debug\HelloXamarin.dll.mdb
-D:\Xamarin Projects\HelloXamarin\HelloXamarin\HelloXamarin\obj\Debug\HelloXamarin.dll.mdb
-D:\Xamarin Projects\HelloXamarin\HelloXamarin\HelloXamarin\bin\Debug\HelloXamarin.dll.mdb

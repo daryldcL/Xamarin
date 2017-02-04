@@ -77,4 +77,3 @@ D:\Xamarin Projects\HelloXamarin\HelloXamarin\HelloXamarin.Droid\obj\Debug\andro
 D:\Xamarin Projects\HelloXamarin\HelloXamarin\HelloXamarin.Droid\obj\Debug\android\assets\Xamarin.Forms.Platform.Android.dll.mdb
 D:\Xamarin Projects\HelloXamarin\HelloXamarin\HelloXamarin.Droid\obj\Debug\android\assets\Xamarin.Forms.Xaml.dll.mdb
 D:\Xamarin Projects\HelloXamarin\HelloXamarin\HelloXamarin.Droid\obj\Debug\HelloXamarin.Droid.dll.mdb
-D:\Xamarin Projects\HelloXamarin\HelloXamarin\HelloXamarin.Droid\bin\Debug\HelloXamarin.Droid.dll.mdb
