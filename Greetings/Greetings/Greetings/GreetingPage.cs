@@ -10,12 +10,14 @@ namespace Greetings
             this.Content = new Label
             {
                 Text = "Greetings, Xamarin.Forms!",
-                HorizontalTextAlignment = TextAlignment.Center,
-                VerticalTextAlignment = TextAlignment.Center,
-                //HorizontalOptions = LayoutOptions.Center,
-                //VerticalOptions = LayoutOptions.Center,
-                BackgroundColor = Color.Yellow,
-                TextColor = Color.Blue
+                //HorizontalTextAlignment = TextAlignment.Center,
+                //VerticalTextAlignment = TextAlignment.Center,
+                HorizontalOptions = LayoutOptions.Center,
+                VerticalOptions = LayoutOptions.Center,
+                FontSize = Device.GetNamedSize(NamedSize.Large, typeof(Label)),
+                FontAttributes = FontAttributes.Bold | FontAttributes.Italic
+                //BackgroundColor = Color.Yellow,
+                //TextColor = Color.Blue
             };
 
             //Padding = new Thickness(0, Device.OnPlatform(20, 0, 0), 0, 0);
